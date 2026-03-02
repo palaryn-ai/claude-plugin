@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "palaryn",
+  "description": "Palaryn — AI agent gateway plugins for security, cost control, and observability",
+  "owner": {
+    "name": "Palaryn"
+  },
+  "plugins": [
+    {
+      "name": "palaryn",
+      "description": "Palaryn — AI agent gateway for security, cost control, and observability.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/palaryn-ai/claude-plugin.git"
+      },
+      "category": "security"
+    }
+  ]
+}

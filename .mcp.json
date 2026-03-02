@@ -1,0 +1,10 @@
+{
+  "palaryn": {
+    "type": "http",
+    "url": "https://app.palaryn.com/mcp",
+    "oauth": {
+      "clientId": "claude-code-plugin",
+      "callbackPort": 3119
+    }
+  }
+}
